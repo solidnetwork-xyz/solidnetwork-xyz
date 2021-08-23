@@ -1,3 +1,6 @@
+>  We develop software **forever**. <br />
+>  The days of we developed something and we're done and we move on have ended. "Joseph Emison"
+
 ### About me!
 
 I'm a Software Engineer with over 12 years of hands-on experience in creating and maintaining software.
