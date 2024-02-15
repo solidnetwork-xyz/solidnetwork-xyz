@@ -3,7 +3,7 @@
 
 ### About me!
 
-I'm a Software Engineer with over 12 years of hands-on experience in creating and maintaining software.
+I'm a Software Engineer with over 15+ years of hands-on experience in creating and maintaining software.
 
 [![Linkedin](https://raw.githubusercontent.com/solid-network/solid-network/master/assets/linkedIn-profile.png)](https://www.linkedin.com/in/solidnetwork/)
 
