@@ -7,7 +7,7 @@ I'm a Software Engineer with over 10+ years of hands-on experience in creating a
 
 [![Linkedin](https://github.com/solidnetwork-xyz/solidnetwork-xyz/blob/main/assets/linkedIn-profile.png)](https://www.linkedin.com/in/solidnetwork-xyz/)
 
-### Organizations
+### Public Projects and Repositories
 
 [![Linkedin](https://github.com/solidnetwork-xyz/solidnetwork-xyz/blob/main/assets/organization.png)](https://github.com/solidnetwork-bank/)
 
@@ -17,6 +17,8 @@ I'm a Software Engineer with over 10+ years of hands-on experience in creating a
 * [Microservices] - Netflix OSS | Spring Cloud
 * [CI | CD] - Atlassian | Jenkins | Travis | GitHub Actions
 * [PaaS | IaaS] - AWS | Digital Ocean | Linode | OpenShift | Google Compute Engine
+* [IaC] - CloudFormation
+* [VCS] - GitHub | Bitbucket | GitLab
 * [SQL] - Oracle | MySQL | PostgreSQL | SQL Server
 * [HTML] -  4.01+ | 5
 * [JavaScript] - jQuery | React
