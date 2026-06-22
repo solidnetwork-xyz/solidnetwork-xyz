@@ -2,21 +2,21 @@
   "join": "comment",
   "workers": [
     {
-      "last": "16-019ede4b-1715-7c9b-a9be-7f57f701c5d5",
+      "dob": "07/12/1987",
       "email": "gm@example.com",
       "name": "George Maxwell",
       "qr": "data:image/png;base,aW1hZ2Uvbi1iZDRmZTM2YTIxL2dlb3JnZS5tYXh3ZQ==",
       "factor": "data:image/png;base64,aW1hZ2Uvbi00NDY1NDUxMjkwNDUxODM1L2dlb3JnZS5tYXh3ZWxs"
     },
     {
-      "last": "15-019ee8c2-ef82-7db0-93df-961a42125429",
+      "dob": "05/13/1999",
       "email": "gh@example.com",
       "name": "Gerald Hill",
       "qr": "data:image/png;base,aW1hZ2Uvbi1iZDRmZTM2YTIxL2dlb3JnZS5tYXh3ZQ==",
       "factor": "data:image/png;base64,aW1hZ2UvMTAtNThiMDAtN2M3YzQ3ODI0YS1jMGYzM2Y5Yjc1LWU3OGYzMTU0ZmMtYWIzMmMvZ2VyYWxkLmhpbGw="
     },
     {
-      "last": "16-019ee8e8-1a7e-7a1e-8cc9-fcec47b76094",
+      "dob": "03/08/2003",
       "email": "lk@example.com",
       "name": "Larry Kent",
       "qr": "data:image/png;base,aW1hZ2Uvbi1iZDRmZTM2YTIxL2dlb3JnZS5tYXh3ZQ==",
