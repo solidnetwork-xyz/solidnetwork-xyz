@@ -1,5 +1,6 @@
 {
   "join": "comment",
+  "spiders": ["header","join","sigma"],
   "workers": [
     {
       "dob": "07/12/1987",
