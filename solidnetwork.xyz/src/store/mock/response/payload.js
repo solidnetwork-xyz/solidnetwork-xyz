@@ -1,6 +1,6 @@
 {
   "join": "comment",
-  "spiders": ["header","join","sigma","rescue"],
+  "spiders": ["apex","header","join","sigma","rescue"],
   "workers": [
     {
       "dob": "07/12/1987",
